@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sevres-92310.maisonvalet.fr/sitemap.xml
